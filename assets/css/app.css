@@ -1,0 +1,79 @@
+body {
+    background-color: #182434;
+}
+
+#socials {
+    font-size: 25px;
+    color: #39C0ED;
+}
+
+.league-of-legends {
+    background: url(../images/league-of-legends.jpg) no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+    height: 300px;
+}
+
+.league-of-legends:hover {
+    background: url(../images/league-of-legends2.jpg) no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+    height: 300px;
+}
+
+.valorant {
+    background: url(../images/valorant.png) no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+    height: 300px;
+}
+
+.rocket-league {
+    background: url(../images/rocket-league.jpg) no-repeat center;
+    background-size: contain;
+    cursor: not-allowed;
+    height: 300px;
+}
+
+.rocket-league:hover {
+    background: url(../images/rocket-league2.jpg) no-repeat center;
+    background-size: contain;
+    cursor: not-allowed;
+    height: 300px;
+}
+
+.teamfight-tactics {
+    background: url(../images/teamfight-tactics.jpg) no-repeat center;
+    background-size: contain;
+    cursor: not-allowed;
+    height: 300px;
+}
+
+.teamfight-tactics:hover {
+    background: url(../images/teamfight-tactics2.jpg) no-repeat center;
+    background-size: contain;
+    cursor: not-allowed;
+    height: 300px;
+}
+
+.trackmania {
+    background: url(../images/trackmania.jpg) no-repeat center;
+    background-size: contain;
+    cursor: not-allowed;
+    height: 300px;
+}
+
+.trackmania:hover {
+    background: url(../images/trackmania2.jpg) no-repeat center;
+    background-size: contain;
+    cursor: not-allowed;
+    height: 300px;
+}
+
+hr {
+    width: 100%;
+    height: 5px;
+    opacity: 1;
+
+    background-color: #39C0ED;
+}
