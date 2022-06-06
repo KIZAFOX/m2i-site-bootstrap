@@ -28,6 +28,14 @@ body {
     height: 300px;
 }
 
+.valorant:hover {
+    background: url(../images/valorant2.png) no-repeat center;
+    background-size: contain;
+    cursor: pointer;
+    height: 300px;
+}
+
+
 .rocket-league {
     background: url(../images/rocket-league.jpg) no-repeat center;
     background-size: contain;
